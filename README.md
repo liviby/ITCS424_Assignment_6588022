@@ -1,6 +1,16 @@
 # ITCS424_Assignment_6588022_README
 
-Student Information
+
+# Try running 
+cd ios
+pod install
+cd ..
+
+flutter clean
+flutter run
+
+
+# Student Information
 Name: Sakhunich Iamcharas
 Student ID: 6588022
 Section: 1
